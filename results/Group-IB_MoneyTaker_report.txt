@@ -1,0 +1,216 @@
+Tokens: are one-time components which are changed immediately after a successful infection 
+Action: O
+Capability: infection/propagation
+Strategic Objective: send data to c2 server
+Tactical Objective: O
+
+Tokens: substitute payment details in the interbank transfer system Citadel and Kronos Banking Trojans 
+Action: O
+Capability: machine access/control
+Strategic Objective: probe host configuration
+Tactical Objective: O
+
+Tokens: used a program 
+Action: O
+Capability: command and control
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: control the initial part of their attacks 
+Action: O
+Capability: command and control
+Strategic Objective: control local machine
+Tactical Objective: O
+
+Tokens: is the use of a separate server for this goal 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: provide malware survivability in the system 
+Action: O
+Capability: machine access/control
+Strategic Objective: probe host configuration
+Tactical Objective: O
+
+Tokens: ensure malware survivability in the system 
+Action: O
+Capability: persistence
+Strategic Objective: probe host configuration
+Tactical Objective: O
+
+Tokens: was the creation of services using .bat scripts that launched the VNC server 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: gain domain administrator privileges 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: consolidate control over the network 
+Action: O
+Capability: command and control
+Strategic Objective: compromise network operational integrity
+Tactical Objective: intercept/manipulate network traffic
+
+Tokens: conduct network reconnaissance , search for vulnerable applications 
+Action: O
+Capability: data theft
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: bypass the UAC technology 
+Action: O
+Capability: anti-detection
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: extract unencrypted Windows credentials 
+Action: O
+Capability: data theft
+Strategic Objective: steal authentication credentials
+Tactical Objective: steal web/network credential
+
+Tokens: repeated the above-mentioned procedure to collect passwords 
+Action: O
+Capability: data theft
+Strategic Objective: infect remote machine
+Tactical Objective: steal web/network credential
+
+Tokens: established an SSH tunnel using a legitimate tool 
+Action: O
+Capability: infection/propagation
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: triggering interval Activity of the triggered timer InternetTimer Timer activating AtivatTimer enabled 10 seconds Triggers the activation timer KeyloggerTimer Keylogger timer disabled 1 millisecond EnviarTimer Data export timer disabled 5 minutes AtivatTimer Activation timer disabled 1 millisecond DesativatTimer Deactivation timer disabled 1 millisecond 
+Action: create event
+Capability: security degradation
+Strategic Objective: send data to c2 server
+Tactical Objective: O
+
+Tokens: Activates the functions of the keylogger 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: bypass antivirus and automated sample analysis 
+Action: O
+Capability: anti-detection
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: writing data 
+Action: write to file
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: creates a file with the name “ % Temp % \perflog1.tmp ” Example of the contents of the “ % Temp % \ perflog1.tmp ” file collected by keylogger and screenshotter • Network communications 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: steal money through the AWS CBR ( Automated Work Station Client of the Russian Central Bank ) 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: downloaded a modular tool called Moneytaker v5.0 to the server of the AWS CBR 
+Action: download file
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: passing the main configuration file “ c 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: reads the “ Directory ” “ Backup ” “ Recursive ” “ Action ” parameters 
+Action: read from file
+Capability: probing
+Strategic Objective: probe host configuration
+Tactical Objective: O
+
+Tokens: checks the xml file 
+Action: find file
+Capability: O
+Strategic Objective: probe host configuration
+Tactical Objective: identify os
+
+Tokens: steal money through the system of interbank transfers 
+Action: O
+Capability: data theft
+Strategic Objective: capture system state data
+Tactical Objective: O
+
+Tokens: documents these threat actors 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: identify target machine(s)
+
+Tokens: become the next target of this group 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: compromised the workstation of First Data ’ s STAR network portal operators 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: withdrawing the money 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: was downloaded The sample was distributed online as a document named fedwire _ 22127061503 _ output _ report.doc ( 2818a0c63d729cb 1f2d223e15c762209 ) 
+Action: download file
+Capability: secondary operation
+Strategic Objective: infect remote machine
+Tactical Objective: install secondary malware
+
+Tokens: form the URL hxxp : //info.docs-sharepoint [ . ] com/officeup [ . ] exe 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: checks any collected data 
+Action: O
+Capability: O
+Strategic Objective: perform data exfiltration
+Tactical Objective: exfiltrate via network
+
+Tokens: logon type and group membership ) 
+Action: O
+Capability: command and control
+Strategic Objective: steal user data
+Tactical Objective: O
+
+Tokens: monitor hacker activity and extract unique data 
+Action: O
+Capability: data theft
+Strategic Objective: obfuscate data for exfiltration
+Tactical Objective: O
+
+Tokens: investigating cybercrime since 2003 www.group-ib.com blog.group-ib.com info @ group-ib.com +44 2036085907 twitter.com/groupib_gib linkedin.com/organization/1382013 
+Action: O
+Capability: command and control
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+

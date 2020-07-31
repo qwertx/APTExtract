@@ -1,0 +1,73 @@
+token,capability,action,strategicObj,tacticalObj
+
+leveraged,anti-detection,O,infect remote machine,O
+a,anti-detection,O,infect remote machine,O
+malware,anti-detection,O,infect remote machine,O
+named,anti-detection,O,infect remote machine,O
+“,anti-detection,O,infect remote machine,O
+EyePyramid,anti-detection,O,infect remote machine,O
+”,anti-detection,O,infect remote machine,O
+to,anti-detection,O,infect remote machine,O
+target,anti-detection,O,infect remote machine,O
+a,anti-detection,O,infect remote machine,O
+dozen,anti-detection,O,infect remote machine,O
+politicians,anti-detection,O,infect remote machine,O
+,,anti-detection,O,infect remote machine,O
+bankers,anti-detection,O,infect remote machine,O
+,,anti-detection,O,infect remote machine,O
+prominent,anti-detection,O,infect remote machine,O
+freemasons,anti-detection,O,infect remote machine,O
+and,anti-detection,O,infect remote machine,O
+law,anti-detection,O,infect remote machine,O
+enforcement,anti-detection,O,infect remote machine,O
+personalities,anti-detection,O,infect remote machine,O
+in,anti-detection,O,infect remote machine,O
+Italy,anti-detection,O,infect remote machine,O
+
+identified,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+a,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+number,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+of,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+C,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+&,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+C,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+servers,command and control,O,receive data from c2 server,perform social-engineering based remote infection
+
+write,O,O,control local machine,O
+a,O,O,control local machine,O
+more,O,O,control local machine,O
+specific,O,O,control local machine,O
+and,O,O,control local machine,O
+more,O,O,control local machine,O
+effective,O,O,control local machine,O
+YARA,O,O,control local machine,O
+rule,O,O,control local machine,O
+
+get,command and control,O,O,O
+the,command and control,O,O,O
+victim,command and control,O,O,O
+to,command and control,O,O,O
+open,command and control,O,O,O
+and,command and control,O,O,O
+execute,command and control,O,O,O
+the,command and control,O,O,O
+attachment,command and control,O,O,O
+
+write,O,O,destroy virtual entity,control machine via remote command
+YARA,O,O,destroy virtual entity,control machine via remote command
+rules,O,O,destroy virtual entity,control machine via remote command
+like,O,O,destroy virtual entity,control machine via remote command
+a,O,O,destroy virtual entity,control machine via remote command
+GReAT,O,O,destroy virtual entity,control machine via remote command
+Ninja,O,O,destroy virtual entity,control machine via remote command
+,,O,O,destroy virtual entity,control machine via remote command
+consider,O,O,destroy virtual entity,control machine via remote command
+taking,O,O,destroy virtual entity,control machine via remote command
+a,O,O,destroy virtual entity,control machine via remote command
+master,O,O,destroy virtual entity,control machine via remote command
+class,O,O,destroy virtual entity,control machine via remote command
+at,O,O,destroy virtual entity,control machine via remote command
+Security,O,O,destroy virtual entity,control machine via remote command
+Analyst,O,O,destroy virtual entity,control machine via remote command
+Summit,O,O,destroy virtual entity,control machine via remote command
+

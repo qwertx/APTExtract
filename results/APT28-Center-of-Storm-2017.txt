@@ -1,0 +1,138 @@
+Tokens: Was the DNC breach part of a concerted effort by the Russian Government to interfere with the U.S . presidential election 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: steal internal data 
+Action: O
+Capability: data theft
+Strategic Objective: steal stored information
+Tactical Objective: identify target machine(s)
+
+Tokens: APT28.5,6 Kyrgyzstan Ministry of Foreign Affairs OCTOBER 2014 THROUGH SEPTEMBER 2015 FireEye iSight Intelligence identified changes made to domain name server ( DNS ) records that suggest that APT28 intercepted email traf- fic from the Kyrgyzstan Ministry of Foreign Affairs after maliciously modifying DNS records of the ministry ’ s authoritative DNS servers 
+Action: O
+Capability: command and control
+Strategic Objective: send data to c2 server
+Tactical Objective: O
+
+Tokens: Evade Detection. ” Trend Micro 
+Action: O
+Capability: anti-detection
+Strategic Objective: security software evasion
+Tactical Objective: O
+
+Tokens: accessed athlete medical data.8 ASSOCIATE D IN FOR MATION OPE R ATIONS AC TIVIT Y On September 12 , 2016 , the “ Fancy Bears ’ Hack Team ” persona 
+Action: O
+Capability: data exfiltration
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: DCCC systems 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: be internal DCCC documents on “ his ” WordPress site.19,20 TV5Monde FEBRUARY 2015 , APRIL 2015 In February , FireEye identified CORESHELL traffic beaconing from TV5Monde ’ s network 
+Action: O
+Capability: anti-detection
+Strategic Objective: hide malware artifacts
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: discredit anti-doping agencies and policies 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: counteract a damaging narrative and delegitimize the institutions leveling criticism 
+Action: O
+Capability: command and control
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: declares the Russian Anti-Doping Agency ( RUSADA ) non- compliant.24 
+Action: O
+Capability: O
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: received Therapeutic Use Exemptions ( TUEs ) for medications otherwise banned from competition.36 Claiming to support “ fair play and clean sport , ” Fancy Bears ’ Hack team calls TUEs “ licenses 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: involved the theft of internal data 
+Action: O
+Capability: data theft
+Strategic Objective: infect remote machine
+Tactical Objective: steal network address
+
+Tokens: advance particular Russian Government aims 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: deploy custom modules within its backdoors 
+Action: O
+Capability: secondary operation
+Strategic Objective: install backdoor
+Tactical Objective: O
+
+Tokens: gain access to the group ’ s tools 
+Action: O
+Capability: data theft
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: sending spear-phishing emails that either deliver exploit documents that deploy malware onto a user ’ s systems 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: provide access to the their accounts 
+Action: O
+Capability: machine access/control
+Strategic Objective: control local machine
+Tactical Objective: control machine via remote command
+
+Tokens: infect site visitors 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: compromising their web-facing servers TACTIC TACTIC INFECTION WITH MALWARE VIA SPEAR PHISH WEBMAIL ACCESS VIA SPEAR-PHISH Craft exploit document with enticing lure content 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: is installed Victim opens document , and malware 
+Action: create service
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: instructing them 
+Action: O
+Capability: data exfiltration
+Strategic Objective: control local machine
+Tactical Objective: O
+
+Tokens: view mail 
+Action: O
+Capability: data exfiltration
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: move deeper 
+Action: O
+Capability: O
+Strategic Objective: control local machine
+Tactical Objective: O
+

@@ -1,0 +1,29 @@
+token,capability,action,strategicObj,tacticalObj
+
+were,infection/propagation,O,infect remote machine,identify target machine(s)
+super,infection/propagation,O,infect remote machine,identify target machine(s)
+busy,infection/propagation,O,infect remote machine,identify target machine(s)
+scanning,infection/propagation,O,infect remote machine,identify target machine(s)
+internal,infection/propagation,O,infect remote machine,identify target machine(s)
+networks,infection/propagation,O,infect remote machine,identify target machine(s)
+
+start,infection/propagation,O,O,persist after system reboot
+the,infection/propagation,O,O,persist after system reboot
+infection,infection/propagation,O,O,persist after system reboot
+process,infection/propagation,O,O,persist after system reboot
+a,infection/propagation,O,O,persist after system reboot
+bank,infection/propagation,O,O,persist after system reboot
+employee,infection/propagation,O,O,persist after system reboot
+
+downloaded,secondary operation,download file,install other components,install secondary malware
+a,secondary operation,download file,install other components,install secondary malware
+reconnaissance,secondary operation,download file,install other components,install secondary malware
+tool,secondary operation,download file,install other components,install secondary malware
+
+are,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+encrypted,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+srservice.hlp,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+injected,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+8e32fccd70cec634d13795bcb1da85ff,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+Files,anti-detection,map library into process,hide malware artifacts,hide file system artifacts
+

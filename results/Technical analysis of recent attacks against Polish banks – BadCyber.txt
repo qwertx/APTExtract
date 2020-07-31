@@ -1,0 +1,24 @@
+Tokens: were super busy scanning internal networks 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: identify target machine(s)
+
+Tokens: start the infection process a bank employee 
+Action: O
+Capability: infection/propagation
+Strategic Objective: O
+Tactical Objective: persist after system reboot
+
+Tokens: downloaded a reconnaissance tool 
+Action: download file
+Capability: secondary operation
+Strategic Objective: install other components
+Tactical Objective: install secondary malware
+
+Tokens: are encrypted srservice.hlp injected 8e32fccd70cec634d13795bcb1da85ff Files 
+Action: map library into process
+Capability: anti-detection
+Strategic Objective: hide malware artifacts
+Tactical Objective: hide file system artifacts
+

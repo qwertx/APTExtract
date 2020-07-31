@@ -1,0 +1,395 @@
+token,capability,action,strategicObj,tacticalObj
+
+are,infection/propagation,O,send data to c2 server,O
+one-time,infection/propagation,O,send data to c2 server,O
+components,infection/propagation,O,send data to c2 server,O
+which,infection/propagation,O,send data to c2 server,O
+are,infection/propagation,O,send data to c2 server,O
+changed,infection/propagation,O,send data to c2 server,O
+immediately,infection/propagation,O,send data to c2 server,O
+after,infection/propagation,O,send data to c2 server,O
+a,infection/propagation,O,send data to c2 server,O
+successful,infection/propagation,O,send data to c2 server,O
+infection,infection/propagation,O,send data to c2 server,O
+
+substitute,machine access/control,O,probe host configuration,O
+payment,machine access/control,O,probe host configuration,O
+details,machine access/control,O,probe host configuration,O
+in,machine access/control,O,probe host configuration,O
+the,machine access/control,O,probe host configuration,O
+interbank,machine access/control,O,probe host configuration,O
+transfer,machine access/control,O,probe host configuration,O
+system,machine access/control,O,probe host configuration,O
+Citadel,machine access/control,O,probe host configuration,O
+and,machine access/control,O,probe host configuration,O
+Kronos,machine access/control,O,probe host configuration,O
+Banking,machine access/control,O,probe host configuration,O
+Trojans,machine access/control,O,probe host configuration,O
+
+used,command and control,O,infect remote machine,O
+a,command and control,O,infect remote machine,O
+program,command and control,O,infect remote machine,O
+
+control,command and control,O,control local machine,O
+the,command and control,O,control local machine,O
+initial,command and control,O,control local machine,O
+part,command and control,O,control local machine,O
+of,command and control,O,control local machine,O
+their,command and control,O,control local machine,O
+attacks,command and control,O,control local machine,O
+
+is,command and control,O,O,O
+the,command and control,O,O,O
+use,command and control,O,O,O
+of,command and control,O,O,O
+a,command and control,O,O,O
+separate,command and control,O,O,O
+server,command and control,O,O,O
+for,command and control,O,O,O
+this,command and control,O,O,O
+goal,command and control,O,O,O
+
+provide,machine access/control,O,probe host configuration,O
+malware,machine access/control,O,probe host configuration,O
+survivability,machine access/control,O,probe host configuration,O
+in,machine access/control,O,probe host configuration,O
+the,machine access/control,O,probe host configuration,O
+system,machine access/control,O,probe host configuration,O
+
+ensure,persistence,O,probe host configuration,O
+malware,persistence,O,probe host configuration,O
+survivability,persistence,O,probe host configuration,O
+in,persistence,O,probe host configuration,O
+the,persistence,O,probe host configuration,O
+system,persistence,O,probe host configuration,O
+
+was,command and control,O,O,O
+the,command and control,O,O,O
+creation,command and control,O,O,O
+of,command and control,O,O,O
+services,command and control,O,O,O
+using,command and control,O,O,O
+.bat,command and control,O,O,O
+scripts,command and control,O,O,O
+that,command and control,O,O,O
+launched,command and control,O,O,O
+the,command and control,O,O,O
+VNC,command and control,O,O,O
+server,command and control,O,O,O
+
+gain,command and control,O,O,O
+domain,command and control,O,O,O
+administrator,command and control,O,O,O
+privileges,command and control,O,O,O
+
+consolidate,command and control,O,compromise network operational integrity,intercept/manipulate network traffic
+control,command and control,O,compromise network operational integrity,intercept/manipulate network traffic
+over,command and control,O,compromise network operational integrity,intercept/manipulate network traffic
+the,command and control,O,compromise network operational integrity,intercept/manipulate network traffic
+network,command and control,O,compromise network operational integrity,intercept/manipulate network traffic
+
+conduct,data theft,O,O,O
+network,data theft,O,O,O
+reconnaissance,data theft,O,O,O
+,,data theft,O,O,O
+search,data theft,O,O,O
+for,data theft,O,O,O
+vulnerable,data theft,O,O,O
+applications,data theft,O,O,O
+
+bypass,anti-detection,O,O,O
+the,anti-detection,O,O,O
+UAC,anti-detection,O,O,O
+technology,anti-detection,O,O,O
+
+extract,data theft,O,steal authentication credentials,steal web/network credential
+unencrypted,data theft,O,steal authentication credentials,steal web/network credential
+Windows,data theft,O,steal authentication credentials,steal web/network credential
+credentials,data theft,O,steal authentication credentials,steal web/network credential
+
+repeated,data theft,O,infect remote machine,steal web/network credential
+the,data theft,O,infect remote machine,steal web/network credential
+above-mentioned,data theft,O,infect remote machine,steal web/network credential
+procedure,data theft,O,infect remote machine,steal web/network credential
+to,data theft,O,infect remote machine,steal web/network credential
+collect,data theft,O,infect remote machine,steal web/network credential
+passwords,data theft,O,infect remote machine,steal web/network credential
+
+established,infection/propagation,O,O,perform social-engineering based remote infection
+an,infection/propagation,O,O,perform social-engineering based remote infection
+SSH,infection/propagation,O,O,perform social-engineering based remote infection
+tunnel,infection/propagation,O,O,perform social-engineering based remote infection
+using,infection/propagation,O,O,perform social-engineering based remote infection
+a,infection/propagation,O,O,perform social-engineering based remote infection
+legitimate,infection/propagation,O,O,perform social-engineering based remote infection
+tool,infection/propagation,O,O,perform social-engineering based remote infection
+
+triggering,security degradation,create event,send data to c2 server,O
+interval,security degradation,create event,send data to c2 server,O
+Activity,security degradation,create event,send data to c2 server,O
+of,security degradation,create event,send data to c2 server,O
+the,security degradation,create event,send data to c2 server,O
+triggered,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+InternetTimer,security degradation,create event,send data to c2 server,O
+Timer,security degradation,create event,send data to c2 server,O
+activating,security degradation,create event,send data to c2 server,O
+AtivatTimer,security degradation,create event,send data to c2 server,O
+enabled,security degradation,create event,send data to c2 server,O
+10,security degradation,create event,send data to c2 server,O
+seconds,security degradation,create event,send data to c2 server,O
+Triggers,security degradation,create event,send data to c2 server,O
+the,security degradation,create event,send data to c2 server,O
+activation,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+KeyloggerTimer,security degradation,create event,send data to c2 server,O
+Keylogger,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+disabled,security degradation,create event,send data to c2 server,O
+1,security degradation,create event,send data to c2 server,O
+millisecond,security degradation,create event,send data to c2 server,O
+EnviarTimer,security degradation,create event,send data to c2 server,O
+Data,security degradation,create event,send data to c2 server,O
+export,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+disabled,security degradation,create event,send data to c2 server,O
+5,security degradation,create event,send data to c2 server,O
+minutes,security degradation,create event,send data to c2 server,O
+AtivatTimer,security degradation,create event,send data to c2 server,O
+Activation,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+disabled,security degradation,create event,send data to c2 server,O
+1,security degradation,create event,send data to c2 server,O
+millisecond,security degradation,create event,send data to c2 server,O
+DesativatTimer,security degradation,create event,send data to c2 server,O
+Deactivation,security degradation,create event,send data to c2 server,O
+timer,security degradation,create event,send data to c2 server,O
+disabled,security degradation,create event,send data to c2 server,O
+1,security degradation,create event,send data to c2 server,O
+millisecond,security degradation,create event,send data to c2 server,O
+
+Activates,O,O,O,O
+the,O,O,O,O
+functions,O,O,O,O
+of,O,O,O,O
+the,O,O,O,O
+keylogger,O,O,O,O
+
+bypass,anti-detection,O,O,O
+antivirus,anti-detection,O,O,O
+and,anti-detection,O,O,O
+automated,anti-detection,O,O,O
+sample,anti-detection,O,O,O
+analysis,anti-detection,O,O,O
+
+writing,O,write to file,O,O
+data,O,write to file,O,O
+
+creates,O,O,O,O
+a,O,O,O,O
+file,O,O,O,O
+with,O,O,O,O
+the,O,O,O,O
+name,O,O,O,O
+“,O,O,O,O
+%,O,O,O,O
+Temp,O,O,O,O
+%,O,O,O,O
+\perflog1.tmp,O,O,O,O
+”,O,O,O,O
+Example,O,O,O,O
+of,O,O,O,O
+the,O,O,O,O
+contents,O,O,O,O
+of,O,O,O,O
+the,O,O,O,O
+“,O,O,O,O
+%,O,O,O,O
+Temp,O,O,O,O
+%,O,O,O,O
+\,O,O,O,O
+perflog1.tmp,O,O,O,O
+”,O,O,O,O
+file,O,O,O,O
+collected,O,O,O,O
+by,O,O,O,O
+keylogger,O,O,O,O
+and,O,O,O,O
+screenshotter,O,O,O,O
+•,O,O,O,O
+Network,O,O,O,O
+communications,O,O,O,O
+
+steal,command and control,O,O,O
+money,command and control,O,O,O
+through,command and control,O,O,O
+the,command and control,O,O,O
+AWS,command and control,O,O,O
+CBR,command and control,O,O,O
+(,command and control,O,O,O
+Automated,command and control,O,O,O
+Work,command and control,O,O,O
+Station,command and control,O,O,O
+Client,command and control,O,O,O
+of,command and control,O,O,O
+the,command and control,O,O,O
+Russian,command and control,O,O,O
+Central,command and control,O,O,O
+Bank,command and control,O,O,O
+),command and control,O,O,O
+
+downloaded,command and control,download file,O,O
+a,command and control,download file,O,O
+modular,command and control,download file,O,O
+tool,command and control,download file,O,O
+called,command and control,download file,O,O
+Moneytaker,command and control,download file,O,O
+v5.0,command and control,download file,O,O
+to,command and control,download file,O,O
+the,command and control,download file,O,O
+server,command and control,download file,O,O
+of,command and control,download file,O,O
+the,command and control,download file,O,O
+AWS,command and control,download file,O,O
+CBR,command and control,download file,O,O
+
+passing,command and control,O,O,O
+the,command and control,O,O,O
+main,command and control,O,O,O
+configuration,command and control,O,O,O
+file,command and control,O,O,O
+“,command and control,O,O,O
+c,command and control,O,O,O
+
+reads,probing,read from file,probe host configuration,O
+the,probing,read from file,probe host configuration,O
+“,probing,read from file,probe host configuration,O
+Directory,probing,read from file,probe host configuration,O
+”,probing,read from file,probe host configuration,O
+“,probing,read from file,probe host configuration,O
+Backup,probing,read from file,probe host configuration,O
+”,probing,read from file,probe host configuration,O
+“,probing,read from file,probe host configuration,O
+Recursive,probing,read from file,probe host configuration,O
+”,probing,read from file,probe host configuration,O
+“,probing,read from file,probe host configuration,O
+Action,probing,read from file,probe host configuration,O
+”,probing,read from file,probe host configuration,O
+parameters,probing,read from file,probe host configuration,O
+
+checks,O,find file,probe host configuration,identify os
+the,O,find file,probe host configuration,identify os
+xml,O,find file,probe host configuration,identify os
+file,O,find file,probe host configuration,identify os
+
+steal,data theft,O,capture system state data,O
+money,data theft,O,capture system state data,O
+through,data theft,O,capture system state data,O
+the,data theft,O,capture system state data,O
+system,data theft,O,capture system state data,O
+of,data theft,O,capture system state data,O
+interbank,data theft,O,capture system state data,O
+transfers,data theft,O,capture system state data,O
+
+documents,infection/propagation,O,infect remote machine,identify target machine(s)
+these,infection/propagation,O,infect remote machine,identify target machine(s)
+threat,infection/propagation,O,infect remote machine,identify target machine(s)
+actors,infection/propagation,O,infect remote machine,identify target machine(s)
+
+become,command and control,O,O,O
+the,command and control,O,O,O
+next,command and control,O,O,O
+target,command and control,O,O,O
+of,command and control,O,O,O
+this,command and control,O,O,O
+group,command and control,O,O,O
+
+compromised,command and control,O,O,O
+the,command and control,O,O,O
+workstation,command and control,O,O,O
+of,command and control,O,O,O
+First,command and control,O,O,O
+Data,command and control,O,O,O
+’,command and control,O,O,O
+s,command and control,O,O,O
+STAR,command and control,O,O,O
+network,command and control,O,O,O
+portal,command and control,O,O,O
+operators,command and control,O,O,O
+
+withdrawing,command and control,O,O,O
+the,command and control,O,O,O
+money,command and control,O,O,O
+
+was,secondary operation,download file,infect remote machine,install secondary malware
+downloaded,secondary operation,download file,infect remote machine,install secondary malware
+The,secondary operation,download file,infect remote machine,install secondary malware
+sample,secondary operation,download file,infect remote machine,install secondary malware
+was,secondary operation,download file,infect remote machine,install secondary malware
+distributed,secondary operation,download file,infect remote machine,install secondary malware
+online,secondary operation,download file,infect remote machine,install secondary malware
+as,secondary operation,download file,infect remote machine,install secondary malware
+a,secondary operation,download file,infect remote machine,install secondary malware
+document,secondary operation,download file,infect remote machine,install secondary malware
+named,secondary operation,download file,infect remote machine,install secondary malware
+fedwire,secondary operation,download file,infect remote machine,install secondary malware
+_,secondary operation,download file,infect remote machine,install secondary malware
+22127061503,secondary operation,download file,infect remote machine,install secondary malware
+_,secondary operation,download file,infect remote machine,install secondary malware
+output,secondary operation,download file,infect remote machine,install secondary malware
+_,secondary operation,download file,infect remote machine,install secondary malware
+report.doc,secondary operation,download file,infect remote machine,install secondary malware
+(,secondary operation,download file,infect remote machine,install secondary malware
+2818a0c63d729cb,secondary operation,download file,infect remote machine,install secondary malware
+1f2d223e15c762209,secondary operation,download file,infect remote machine,install secondary malware
+),secondary operation,download file,infect remote machine,install secondary malware
+
+form,O,O,O,perform social-engineering based remote infection
+the,O,O,O,perform social-engineering based remote infection
+URL,O,O,O,perform social-engineering based remote infection
+hxxp,O,O,O,perform social-engineering based remote infection
+:,O,O,O,perform social-engineering based remote infection
+//info.docs-sharepoint,O,O,O,perform social-engineering based remote infection
+[,O,O,O,perform social-engineering based remote infection
+.,O,O,O,perform social-engineering based remote infection
+],O,O,O,perform social-engineering based remote infection
+com/officeup,O,O,O,perform social-engineering based remote infection
+[,O,O,O,perform social-engineering based remote infection
+.,O,O,O,perform social-engineering based remote infection
+],O,O,O,perform social-engineering based remote infection
+exe,O,O,O,perform social-engineering based remote infection
+
+checks,O,O,perform data exfiltration,exfiltrate via network
+any,O,O,perform data exfiltration,exfiltrate via network
+collected,O,O,perform data exfiltration,exfiltrate via network
+data,O,O,perform data exfiltration,exfiltrate via network
+
+logon,command and control,O,steal user data,O
+type,command and control,O,steal user data,O
+and,command and control,O,steal user data,O
+group,command and control,O,steal user data,O
+membership,command and control,O,steal user data,O
+),command and control,O,steal user data,O
+
+monitor,data theft,O,obfuscate data for exfiltration,O
+hacker,data theft,O,obfuscate data for exfiltration,O
+activity,data theft,O,obfuscate data for exfiltration,O
+and,data theft,O,obfuscate data for exfiltration,O
+extract,data theft,O,obfuscate data for exfiltration,O
+unique,data theft,O,obfuscate data for exfiltration,O
+data,data theft,O,obfuscate data for exfiltration,O
+
+investigating,command and control,O,infect remote machine,perform social-engineering based remote infection
+cybercrime,command and control,O,infect remote machine,perform social-engineering based remote infection
+since,command and control,O,infect remote machine,perform social-engineering based remote infection
+2003,command and control,O,infect remote machine,perform social-engineering based remote infection
+www.group-ib.com,command and control,O,infect remote machine,perform social-engineering based remote infection
+blog.group-ib.com,command and control,O,infect remote machine,perform social-engineering based remote infection
+info,command and control,O,infect remote machine,perform social-engineering based remote infection
+@,command and control,O,infect remote machine,perform social-engineering based remote infection
+group-ib.com,command and control,O,infect remote machine,perform social-engineering based remote infection
++44,command and control,O,infect remote machine,perform social-engineering based remote infection
+2036085907,command and control,O,infect remote machine,perform social-engineering based remote infection
+twitter.com/groupib_gib,command and control,O,infect remote machine,perform social-engineering based remote infection
+linkedin.com/organization/1382013,command and control,O,infect remote machine,perform social-engineering based remote infection
+

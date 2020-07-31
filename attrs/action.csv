@@ -1,0 +1,211 @@
+000,send dns query
+001,send reverse dns lookup
+002,check for kernel debugger
+003,check for remote debugger
+004,emulate driver
+005,load and call driver
+006,load driver
+007,unload driver
+008,create directory
+009,delete directory
+010,hide directory
+011,monitor directory
+012,emulate disk
+013,get disk attributes
+014,get disk type
+015,list disks
+016,monitor disks
+017,mount disk
+018,unmount disk
+019,connect to ftp server
+020,disconnect from ftp server
+021,send ftp command
+022,close file
+023,copy file
+024,create file
+025,create file alternate data stream
+026,create file mapping
+027,create file symbolic link
+028,delete file
+029,execute file
+030,find file
+031,get file attributes
+032,hide file
+033,lock file
+034,modify file
+035,move file
+036,open file
+037,open file mapping
+038,read from file
+039,rename file
+040,send control code to file
+041,set file attributes
+042,unlock file
+043,write to file
+044,create dialog box
+045,create window
+046,enumerate windows
+047,find window
+048,hide window
+049,kill window
+050,show window
+051,receive http response
+052,send http connect request
+053,send http delete request
+054,send http get request
+055,send http head request
+056,send http options request
+057,send http patch request
+058,send http post request
+059,send http put request
+060,send http trace request
+061,add system call hook
+062,add windows hook
+063,hide hook
+064,connect to named pipe
+065,create mailslot
+066,create named pipe
+067,delete named pipe
+068,disconnect from named pipe
+069,read from mailslot
+070,read from named pipe
+071,write to mailslot
+072,write to named pipe
+073,connect to irc server
+074,disconnect from irc server
+075,join irc channel
+076,leave irc channel
+077,receive irc private message
+078,send irc private message
+079,set irc nickname
+080,call library function
+081,enumerate libraries
+082,free library
+083,get function address
+084,load library
+085,close port
+086,connect to ip
+087,connect to socket address
+088,connect to url
+089,disconnect from ip
+090,download file
+091,listen on port
+092,open port
+093,receive network packet
+094,send email message
+095,send icmp request
+096,send network packet
+097,upload file
+098,add connection to network share
+099,add network share
+100,connect to network share
+101,delete network share
+102,disconnect from network share
+103,enumerate network shares
+104,create process
+105,create process as user
+106,enumerate processes
+107,flush process instruction cache
+108,get process current directory
+109,get process environment variable
+110,get process startupinfo
+111,kill process
+112,open process
+113,set process current directory
+114,set process environment variable
+115,sleep process
+116,allocate process virtual memory
+117,free process virtual memory
+118,map file into process
+119,map library into process
+120,modify process virtual memory protection
+121,read from process memory
+122,unmap file from process
+123,write to process memory
+124,create remote thread in process
+125,create thread
+126,enumerate threads
+127,get thread context
+128,get thread username
+129,impersonate process
+130,kill thread
+131,queue apc in thread
+132,revert thread to self
+133,set thread context
+134,close registry key
+135,create registry key
+136,create registry key value
+137,delete registry key
+138,delete registry key value
+139,enumerate registry key subkeys
+140,enumerate registry key values
+141,get registry key attributes
+142,modify registry key
+143,modify registry key value
+144,monitor registry key
+145,open registry key
+146,read registry key value
+147,create service
+148,delete service
+149,enumerate services
+150,modify service configuration
+151,open service
+152,send control code to service
+153,start service
+154,stop service
+155,accept socket connection
+156,bind address to socket
+157,close socket
+158,connect to socket
+159,create socket
+160,disconnect from socket
+161,get host by address
+162,get host by name
+163,listen on socket
+164,receive data on socket
+165,send data on socket
+166,send data to address on socket
+167,create critical section
+168,create event
+169,create mutex
+170,create semaphore
+171,delete critical section
+172,delete event
+173,delete mutex
+174,delete semaphore
+175,open critical section
+176,open event
+177,open mutex
+178,open semaphore
+179,release critical section
+180,release mutex
+181,release semaphore
+182,reset event
+183,add scheduled task
+184,enumerate system handles
+185,get elapsed system up time
+186,get netbios name
+187,get system global flags
+188,get system host name
+189,get system local time
+190,get system time
+191,get username
+192,get windows directory
+193,get windows system directory
+194,get windows temporary files directory
+195,set netbios name
+196,set system global flags
+197,set system host name
+198,set system local time
+199,set system time
+200,shutdown system
+201,sleep system
+202,add user
+203,add user to group
+204,change password
+205,delete user
+206,enumerate users
+207,get user attributes
+208,invoke user privilege
+209,logon as user
+210,remove user from group

@@ -1,0 +1,258 @@
+Tokens: skyrocketing prices 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: uncovered a number of multistage attacks that use cryptocurrency-related lures 
+Action: O
+Capability: command and control
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: “ survey the lay of the land. ” In this research we detail a new implant dubbed PowerRatankba , a PowerShell-based malware variant 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: deliver a PowerRatankba.A variant 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: PowerRatankba PowerSpritz PowerSpritz 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: is a Windows executable 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: were uploaded Figure 7 : Malicious LNK AppLocker bypass to retrieve payload North Korea Bitten by Bitcoin Bug 8 Microsoft Compiled HTML Help ( CHM ) Several malicious CHM files 
+Action: O
+Capability: infection/propagation
+Strategic Objective: install other components
+Tactical Objective: O
+
+Tokens: uses a VBScript Execute command and BITSAdmin tool to download a malicious VBScript file ( Fig 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: executes a VBScript file “ C 
+Action: execute file
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: execute it 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: executing it 
+Action: execute file
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: uses a Bithumb lure ( Fig 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: download PowerRatankba from hxxp 
+Action: download file
+Capability: secondary operation
+Strategic Objective: install other components
+Tactical Objective: O
+
+Tokens: trick unsuspecting victims 
+Action: O
+Capability: machine access/control
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: download the PowerRatankba implant 
+Action: download file
+Capability: secondary operation
+Strategic Objective: install other components
+Tactical Objective: install secondary malware
+
+Tokens: trick the targets 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: download a VBScript PowerRatankba downloader 
+Action: download file
+Capability: secondary operation
+Strategic Objective: install other components
+Tactical Objective: O
+
+Tokens: sends detailed information about the infected device to its C & C server 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: is retrieved WMIC command output sent via same initial HTTP POST There are only slight variations between the initial BaseInfo HTTP POST , such as the process list 
+Action: kill process
+Capability: command and control
+Strategic Objective: hide malware artifacts
+Tactical Objective: exfiltrate via network
+
+Tokens: are encrypted command parameters for all commands except interval 
+Action: O
+Capability: anti-detection
+Strategic Objective: hide malware artifacts
+Tactical Objective: encrypt data
+
+Tokens: send request after sleep Exit Change default sleep length Execute command using “ cmd.exe /c $ cmdInst ” 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: saves a JS file to the victim ’ s Startup folder 
+Action: O
+Capability: O
+Strategic Objective: perform data exfiltration
+Tactical Objective: O
+
+Tokens: download a PowerShell script 
+Action: download file
+Capability: secondary operation
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: was likely based This variant 
+Action: O
+Capability: infection/propagation
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: steal POS data from a POS-related framework.1 At this time we 
+Action: O
+Capability: data theft
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: utilizing PowerRatankba 
+Action: O
+Capability: O
+Strategic Objective: steal stored information
+Tactical Objective: O
+
+Tokens: creating a registry key in HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\ CurrentVersion\Run\igfxgpttray 
+Action: create registry key
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: download an updated implant with which to replace itself 
+Action: download file
+Capability: secondary operation
+Strategic Objective: send data to c2 server
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: taking a snapshot of the process list using CreateToolhelp32Snapshot 
+Action: O
+Capability: command and control
+Strategic Objective: capture system state data
+Tactical Objective: O
+
+Tokens: case-insensitive search 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: comparing the string to ksnetadsl.dll ( Fig 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: control machine via remote command
+
+Tokens: inject hkp.dll 
+Action: map library into process
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: substitute the ASCII values of “ 0-9 ” for “ ZCKOADBLNX ” as well as at offset 0x3D for substitution of ASCII “ = ” to “ Y ” 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: “ Y ” ( Fig 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: “ Z ” while any equals signs ( “ = ” ) will be substituted for “ Y ” 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: find exfiltrated data 
+Action: O
+Capability: data exfiltration
+Strategic Objective: perform data exfiltration
+Tactical Objective: O
+
+Tokens: killkill that function identically to the respective PowerRatankba commands 
+Action: O
+Capability: command and control
+Strategic Objective: send data to c2 server
+Tactical Objective: O
+
+Tokens: steal money 
+Action: O
+Capability: data theft
+Strategic Objective: O
+Tactical Objective: steal web/network credential
+
+Tokens: was previously utilized RatankbaPOS dropper North Korea Bitten by Bitcoin Bug 31 Decoys Content found in a PowerRatankba JS downloader decoy ( transaction.pdf downloaded by transaction.js ) 
+Action: download file
+Capability: secondary operation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: is dropped The document used in this attack 
+Action: O
+Capability: secondary operation
+Strategic Objective: install other components
+Tactical Objective: install secondary malware
+
+Tokens: “ Bitcoin transaction history. ” Using the macro-based VBScript XOR dropper technique a CoreDn downloader implant 
+Action: O
+Capability: anti-detection
+Strategic Objective: steal authentication credentials
+Tactical Objective: O
+
+Tokens: lacking resources 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: sharing data 
+Action: O
+Capability: data exfiltration
+Strategic Objective: O
+Tactical Objective: O
+

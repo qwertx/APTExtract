@@ -1,0 +1,20 @@
+000,anti-behavioral analysis
+001,anti-code analysis
+002,anti-detection
+003,anti-removal
+004,availability violation
+005,command and control
+006,data exfiltration
+007,data theft
+008,destruction
+009,fraud
+010,infection/propagation
+011,integrity violation
+012,machine access/control
+013,persistence
+014,privilege escalation
+015,probing
+016,remote machine manipulation
+017,secondary operation
+018,security degradation
+019,spying

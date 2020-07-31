@@ -1,0 +1,431 @@
+token,capability,action,strategicObj,tacticalObj
+
+skyrocketing,O,O,O,O
+prices,O,O,O,O
+
+uncovered,command and control,O,infect remote machine,perform social-engineering based remote infection
+a,command and control,O,infect remote machine,perform social-engineering based remote infection
+number,command and control,O,infect remote machine,perform social-engineering based remote infection
+of,command and control,O,infect remote machine,perform social-engineering based remote infection
+multistage,command and control,O,infect remote machine,perform social-engineering based remote infection
+attacks,command and control,O,infect remote machine,perform social-engineering based remote infection
+that,command and control,O,infect remote machine,perform social-engineering based remote infection
+use,command and control,O,infect remote machine,perform social-engineering based remote infection
+cryptocurrency-related,command and control,O,infect remote machine,perform social-engineering based remote infection
+lures,command and control,O,infect remote machine,perform social-engineering based remote infection
+
+“,command and control,O,O,O
+survey,command and control,O,O,O
+the,command and control,O,O,O
+lay,command and control,O,O,O
+of,command and control,O,O,O
+the,command and control,O,O,O
+land.,command and control,O,O,O
+”,command and control,O,O,O
+In,command and control,O,O,O
+this,command and control,O,O,O
+research,command and control,O,O,O
+we,command and control,O,O,O
+detail,command and control,O,O,O
+a,command and control,O,O,O
+new,command and control,O,O,O
+implant,command and control,O,O,O
+dubbed,command and control,O,O,O
+PowerRatankba,command and control,O,O,O
+,,command and control,O,O,O
+a,command and control,O,O,O
+PowerShell-based,command and control,O,O,O
+malware,command and control,O,O,O
+variant,command and control,O,O,O
+
+deliver,command and control,O,O,O
+a,command and control,O,O,O
+PowerRatankba.A,command and control,O,O,O
+variant,command and control,O,O,O
+
+PowerRatankba,O,O,O,O
+PowerSpritz,O,O,O,O
+PowerSpritz,O,O,O,O
+
+is,O,O,O,O
+a,O,O,O,O
+Windows,O,O,O,O
+executable,O,O,O,O
+
+were,infection/propagation,O,install other components,O
+uploaded,infection/propagation,O,install other components,O
+Figure,infection/propagation,O,install other components,O
+7,infection/propagation,O,install other components,O
+:,infection/propagation,O,install other components,O
+Malicious,infection/propagation,O,install other components,O
+LNK,infection/propagation,O,install other components,O
+AppLocker,infection/propagation,O,install other components,O
+bypass,infection/propagation,O,install other components,O
+to,infection/propagation,O,install other components,O
+retrieve,infection/propagation,O,install other components,O
+payload,infection/propagation,O,install other components,O
+North,infection/propagation,O,install other components,O
+Korea,infection/propagation,O,install other components,O
+Bitten,infection/propagation,O,install other components,O
+by,infection/propagation,O,install other components,O
+Bitcoin,infection/propagation,O,install other components,O
+Bug,infection/propagation,O,install other components,O
+8,infection/propagation,O,install other components,O
+Microsoft,infection/propagation,O,install other components,O
+Compiled,infection/propagation,O,install other components,O
+HTML,infection/propagation,O,install other components,O
+Help,infection/propagation,O,install other components,O
+(,infection/propagation,O,install other components,O
+CHM,infection/propagation,O,install other components,O
+),infection/propagation,O,install other components,O
+Several,infection/propagation,O,install other components,O
+malicious,infection/propagation,O,install other components,O
+CHM,infection/propagation,O,install other components,O
+files,infection/propagation,O,install other components,O
+
+uses,command and control,O,O,O
+a,command and control,O,O,O
+VBScript,command and control,O,O,O
+Execute,command and control,O,O,O
+command,command and control,O,O,O
+and,command and control,O,O,O
+BITSAdmin,command and control,O,O,O
+tool,command and control,O,O,O
+to,command and control,O,O,O
+download,command and control,O,O,O
+a,command and control,O,O,O
+malicious,command and control,O,O,O
+VBScript,command and control,O,O,O
+file,command and control,O,O,O
+(,command and control,O,O,O
+Fig,command and control,O,O,O
+
+executes,O,execute file,O,O
+a,O,execute file,O,O
+VBScript,O,execute file,O,O
+file,O,execute file,O,O
+“,O,execute file,O,O
+C,O,execute file,O,O
+
+execute,O,O,O,O
+it,O,O,O,O
+
+executing,O,execute file,O,O
+it,O,execute file,O,O
+
+uses,infection/propagation,O,infect remote machine,O
+a,infection/propagation,O,infect remote machine,O
+Bithumb,infection/propagation,O,infect remote machine,O
+lure,infection/propagation,O,infect remote machine,O
+(,infection/propagation,O,infect remote machine,O
+Fig,infection/propagation,O,infect remote machine,O
+
+download,secondary operation,download file,install other components,O
+PowerRatankba,secondary operation,download file,install other components,O
+from,secondary operation,download file,install other components,O
+hxxp,secondary operation,download file,install other components,O
+
+trick,machine access/control,O,infect remote machine,perform social-engineering based remote infection
+unsuspecting,machine access/control,O,infect remote machine,perform social-engineering based remote infection
+victims,machine access/control,O,infect remote machine,perform social-engineering based remote infection
+
+download,secondary operation,download file,install other components,install secondary malware
+the,secondary operation,download file,install other components,install secondary malware
+PowerRatankba,secondary operation,download file,install other components,install secondary malware
+implant,secondary operation,download file,install other components,install secondary malware
+
+trick,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+the,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+targets,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+download,secondary operation,download file,install other components,O
+a,secondary operation,download file,install other components,O
+VBScript,secondary operation,download file,install other components,O
+PowerRatankba,secondary operation,download file,install other components,O
+downloader,secondary operation,download file,install other components,O
+
+sends,command and control,O,O,O
+detailed,command and control,O,O,O
+information,command and control,O,O,O
+about,command and control,O,O,O
+the,command and control,O,O,O
+infected,command and control,O,O,O
+device,command and control,O,O,O
+to,command and control,O,O,O
+its,command and control,O,O,O
+C,command and control,O,O,O
+&,command and control,O,O,O
+C,command and control,O,O,O
+server,command and control,O,O,O
+
+is,command and control,kill process,hide malware artifacts,exfiltrate via network
+retrieved,command and control,kill process,hide malware artifacts,exfiltrate via network
+WMIC,command and control,kill process,hide malware artifacts,exfiltrate via network
+command,command and control,kill process,hide malware artifacts,exfiltrate via network
+output,command and control,kill process,hide malware artifacts,exfiltrate via network
+sent,command and control,kill process,hide malware artifacts,exfiltrate via network
+via,command and control,kill process,hide malware artifacts,exfiltrate via network
+same,command and control,kill process,hide malware artifacts,exfiltrate via network
+initial,command and control,kill process,hide malware artifacts,exfiltrate via network
+HTTP,command and control,kill process,hide malware artifacts,exfiltrate via network
+POST,command and control,kill process,hide malware artifacts,exfiltrate via network
+There,command and control,kill process,hide malware artifacts,exfiltrate via network
+are,command and control,kill process,hide malware artifacts,exfiltrate via network
+only,command and control,kill process,hide malware artifacts,exfiltrate via network
+slight,command and control,kill process,hide malware artifacts,exfiltrate via network
+variations,command and control,kill process,hide malware artifacts,exfiltrate via network
+between,command and control,kill process,hide malware artifacts,exfiltrate via network
+the,command and control,kill process,hide malware artifacts,exfiltrate via network
+initial,command and control,kill process,hide malware artifacts,exfiltrate via network
+BaseInfo,command and control,kill process,hide malware artifacts,exfiltrate via network
+HTTP,command and control,kill process,hide malware artifacts,exfiltrate via network
+POST,command and control,kill process,hide malware artifacts,exfiltrate via network
+,,command and control,kill process,hide malware artifacts,exfiltrate via network
+such,command and control,kill process,hide malware artifacts,exfiltrate via network
+as,command and control,kill process,hide malware artifacts,exfiltrate via network
+the,command and control,kill process,hide malware artifacts,exfiltrate via network
+process,command and control,kill process,hide malware artifacts,exfiltrate via network
+list,command and control,kill process,hide malware artifacts,exfiltrate via network
+
+are,anti-detection,O,hide malware artifacts,encrypt data
+encrypted,anti-detection,O,hide malware artifacts,encrypt data
+command,anti-detection,O,hide malware artifacts,encrypt data
+parameters,anti-detection,O,hide malware artifacts,encrypt data
+for,anti-detection,O,hide malware artifacts,encrypt data
+all,anti-detection,O,hide malware artifacts,encrypt data
+commands,anti-detection,O,hide malware artifacts,encrypt data
+except,anti-detection,O,hide malware artifacts,encrypt data
+interval,anti-detection,O,hide malware artifacts,encrypt data
+
+send,command and control,O,O,O
+request,command and control,O,O,O
+after,command and control,O,O,O
+sleep,command and control,O,O,O
+Exit,command and control,O,O,O
+Change,command and control,O,O,O
+default,command and control,O,O,O
+sleep,command and control,O,O,O
+length,command and control,O,O,O
+Execute,command and control,O,O,O
+command,command and control,O,O,O
+using,command and control,O,O,O
+“,command and control,O,O,O
+cmd.exe,command and control,O,O,O
+/c,command and control,O,O,O
+$,command and control,O,O,O
+cmdInst,command and control,O,O,O
+”,command and control,O,O,O
+
+saves,O,O,perform data exfiltration,O
+a,O,O,perform data exfiltration,O
+JS,O,O,perform data exfiltration,O
+file,O,O,perform data exfiltration,O
+to,O,O,perform data exfiltration,O
+the,O,O,perform data exfiltration,O
+victim,O,O,perform data exfiltration,O
+’,O,O,perform data exfiltration,O
+s,O,O,perform data exfiltration,O
+Startup,O,O,perform data exfiltration,O
+folder,O,O,perform data exfiltration,O
+
+download,secondary operation,download file,O,O
+a,secondary operation,download file,O,O
+PowerShell,secondary operation,download file,O,O
+script,secondary operation,download file,O,O
+
+was,infection/propagation,O,O,O
+likely,infection/propagation,O,O,O
+based,infection/propagation,O,O,O
+This,infection/propagation,O,O,O
+variant,infection/propagation,O,O,O
+
+steal,data theft,O,O,O
+POS,data theft,O,O,O
+data,data theft,O,O,O
+from,data theft,O,O,O
+a,data theft,O,O,O
+POS-related,data theft,O,O,O
+framework.1,data theft,O,O,O
+At,data theft,O,O,O
+this,data theft,O,O,O
+time,data theft,O,O,O
+we,data theft,O,O,O
+
+utilizing,O,O,steal stored information,O
+PowerRatankba,O,O,steal stored information,O
+
+creating,O,create registry key,O,O
+a,O,create registry key,O,O
+registry,O,create registry key,O,O
+key,O,create registry key,O,O
+in,O,create registry key,O,O
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\,O,create registry key,O,O
+CurrentVersion\Run\igfxgpttray,O,create registry key,O,O
+
+download,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+an,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+updated,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+implant,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+with,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+which,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+to,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+replace,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+itself,secondary operation,download file,send data to c2 server,perform social-engineering based remote infection
+
+taking,command and control,O,capture system state data,O
+a,command and control,O,capture system state data,O
+snapshot,command and control,O,capture system state data,O
+of,command and control,O,capture system state data,O
+the,command and control,O,capture system state data,O
+process,command and control,O,capture system state data,O
+list,command and control,O,capture system state data,O
+using,command and control,O,capture system state data,O
+CreateToolhelp32Snapshot,command and control,O,capture system state data,O
+
+case-insensitive,O,O,O,O
+search,O,O,O,O
+
+comparing,command and control,O,O,control machine via remote command
+the,command and control,O,O,control machine via remote command
+string,command and control,O,O,control machine via remote command
+to,command and control,O,O,control machine via remote command
+ksnetadsl.dll,command and control,O,O,control machine via remote command
+(,command and control,O,O,control machine via remote command
+Fig,command and control,O,O,control machine via remote command
+
+inject,O,map library into process,O,O
+hkp.dll,O,map library into process,O,O
+
+substitute,command and control,O,O,perform social-engineering based remote infection
+the,command and control,O,O,perform social-engineering based remote infection
+ASCII,command and control,O,O,perform social-engineering based remote infection
+values,command and control,O,O,perform social-engineering based remote infection
+of,command and control,O,O,perform social-engineering based remote infection
+“,command and control,O,O,perform social-engineering based remote infection
+0-9,command and control,O,O,perform social-engineering based remote infection
+”,command and control,O,O,perform social-engineering based remote infection
+for,command and control,O,O,perform social-engineering based remote infection
+“,command and control,O,O,perform social-engineering based remote infection
+ZCKOADBLNX,command and control,O,O,perform social-engineering based remote infection
+”,command and control,O,O,perform social-engineering based remote infection
+as,command and control,O,O,perform social-engineering based remote infection
+well,command and control,O,O,perform social-engineering based remote infection
+as,command and control,O,O,perform social-engineering based remote infection
+at,command and control,O,O,perform social-engineering based remote infection
+offset,command and control,O,O,perform social-engineering based remote infection
+0x3D,command and control,O,O,perform social-engineering based remote infection
+for,command and control,O,O,perform social-engineering based remote infection
+substitution,command and control,O,O,perform social-engineering based remote infection
+of,command and control,O,O,perform social-engineering based remote infection
+ASCII,command and control,O,O,perform social-engineering based remote infection
+“,command and control,O,O,perform social-engineering based remote infection
+=,command and control,O,O,perform social-engineering based remote infection
+”,command and control,O,O,perform social-engineering based remote infection
+to,command and control,O,O,perform social-engineering based remote infection
+“,command and control,O,O,perform social-engineering based remote infection
+Y,command and control,O,O,perform social-engineering based remote infection
+”,command and control,O,O,perform social-engineering based remote infection
+
+“,O,O,O,O
+Y,O,O,O,O
+”,O,O,O,O
+(,O,O,O,O
+Fig,O,O,O,O
+
+“,O,O,O,perform social-engineering based remote infection
+Z,O,O,O,perform social-engineering based remote infection
+”,O,O,O,perform social-engineering based remote infection
+while,O,O,O,perform social-engineering based remote infection
+any,O,O,O,perform social-engineering based remote infection
+equals,O,O,O,perform social-engineering based remote infection
+signs,O,O,O,perform social-engineering based remote infection
+(,O,O,O,perform social-engineering based remote infection
+“,O,O,O,perform social-engineering based remote infection
+=,O,O,O,perform social-engineering based remote infection
+”,O,O,O,perform social-engineering based remote infection
+),O,O,O,perform social-engineering based remote infection
+will,O,O,O,perform social-engineering based remote infection
+be,O,O,O,perform social-engineering based remote infection
+substituted,O,O,O,perform social-engineering based remote infection
+for,O,O,O,perform social-engineering based remote infection
+“,O,O,O,perform social-engineering based remote infection
+Y,O,O,O,perform social-engineering based remote infection
+”,O,O,O,perform social-engineering based remote infection
+
+find,data exfiltration,O,perform data exfiltration,O
+exfiltrated,data exfiltration,O,perform data exfiltration,O
+data,data exfiltration,O,perform data exfiltration,O
+
+killkill,command and control,O,send data to c2 server,O
+that,command and control,O,send data to c2 server,O
+function,command and control,O,send data to c2 server,O
+identically,command and control,O,send data to c2 server,O
+to,command and control,O,send data to c2 server,O
+the,command and control,O,send data to c2 server,O
+respective,command and control,O,send data to c2 server,O
+PowerRatankba,command and control,O,send data to c2 server,O
+commands,command and control,O,send data to c2 server,O
+
+steal,data theft,O,O,steal web/network credential
+money,data theft,O,O,steal web/network credential
+
+was,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+previously,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+utilized,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+RatankbaPOS,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+dropper,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+North,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Korea,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Bitten,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+by,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Bitcoin,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Bug,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+31,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Decoys,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+Content,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+found,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+in,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+a,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+PowerRatankba,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+JS,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+downloader,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+decoy,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+(,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+transaction.pdf,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+downloaded,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+by,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+transaction.js,secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+),secondary operation,download file,infect remote machine,perform social-engineering based remote infection
+
+is,secondary operation,O,install other components,install secondary malware
+dropped,secondary operation,O,install other components,install secondary malware
+The,secondary operation,O,install other components,install secondary malware
+document,secondary operation,O,install other components,install secondary malware
+used,secondary operation,O,install other components,install secondary malware
+in,secondary operation,O,install other components,install secondary malware
+this,secondary operation,O,install other components,install secondary malware
+attack,secondary operation,O,install other components,install secondary malware
+
+“,anti-detection,O,steal authentication credentials,O
+Bitcoin,anti-detection,O,steal authentication credentials,O
+transaction,anti-detection,O,steal authentication credentials,O
+history.,anti-detection,O,steal authentication credentials,O
+”,anti-detection,O,steal authentication credentials,O
+Using,anti-detection,O,steal authentication credentials,O
+the,anti-detection,O,steal authentication credentials,O
+macro-based,anti-detection,O,steal authentication credentials,O
+VBScript,anti-detection,O,steal authentication credentials,O
+XOR,anti-detection,O,steal authentication credentials,O
+dropper,anti-detection,O,steal authentication credentials,O
+technique,anti-detection,O,steal authentication credentials,O
+a,anti-detection,O,steal authentication credentials,O
+CoreDn,anti-detection,O,steal authentication credentials,O
+downloader,anti-detection,O,steal authentication credentials,O
+implant,anti-detection,O,steal authentication credentials,O
+
+lacking,O,O,O,O
+resources,O,O,O,O
+
+sharing,data exfiltration,O,O,O
+data,data exfiltration,O,O,O
+

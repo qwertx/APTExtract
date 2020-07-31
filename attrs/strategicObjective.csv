@@ -1,0 +1,65 @@
+000,anti-sandbox
+001,anti-vm
+002,anti-debugging
+003,anti-disassembly
+004,code obfuscation
+005,anti-memory forensics
+006,hide executing code
+007,hide malware artifacts
+008,hide non-executing code
+009,security software evasion
+010,self-modification
+011,prevent malware artifact access
+012,prevent malware artifact deletion
+013,compromise data availability
+014,compromise system availability
+015,consume system resources
+016,determine c2 server
+017,receive data from c2 server
+018,send data to c2 server
+019,obfuscate data for exfiltration
+020,perform data exfiltration
+021,stage data for exfiltration
+022,steal authentication credentials
+023,steal stored information
+024,steal system information
+025,steal user data
+026,destroy physical entity
+027,destroy virtual entity
+028,perform click fraud
+029,perform premium rate fraud
+030,infect file
+031,infect remote machine
+032,prevent duplicate infection
+033,annoy user
+034,compromise network operational integrity
+035,compromise system data integrity
+036,compromise system operational integrity
+037,compromise user data integrity
+038,control local machine
+039,install backdoor
+040,ensure compatibility
+041,gather information for improvement
+042,persist to continuously execute on system
+043,persist to re-infect system
+044,escalate user privilege
+045,impersonate user
+046,probe host configuration
+047,probe network configuration
+048,access remote machine
+049,search for remote machine
+050,install other components
+051,lay dormant
+052,log activity
+053,patch operating system file(s)
+054,remove traces of infection
+055,suicide exit
+056,degrade security programs
+057,disable [host-based or os] access controls
+058,disable os security features
+059,disable server provider security features
+060,disable system updates
+061,capture system input peripheral data
+062,capture system interface data
+063,capture system output peripheral data
+064,capture system state data

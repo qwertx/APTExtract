@@ -1,0 +1,314 @@
+token,capability,action,strategicObj,tacticalObj
+
+Was,command and control,O,O,O
+the,command and control,O,O,O
+DNC,command and control,O,O,O
+breach,command and control,O,O,O
+part,command and control,O,O,O
+of,command and control,O,O,O
+a,command and control,O,O,O
+concerted,command and control,O,O,O
+effort,command and control,O,O,O
+by,command and control,O,O,O
+the,command and control,O,O,O
+Russian,command and control,O,O,O
+Government,command and control,O,O,O
+to,command and control,O,O,O
+interfere,command and control,O,O,O
+with,command and control,O,O,O
+the,command and control,O,O,O
+U.S,command and control,O,O,O
+.,command and control,O,O,O
+presidential,command and control,O,O,O
+election,command and control,O,O,O
+
+steal,data theft,O,steal stored information,identify target machine(s)
+internal,data theft,O,steal stored information,identify target machine(s)
+data,data theft,O,steal stored information,identify target machine(s)
+
+APT28.5,6,command and control,O,send data to c2 server,O
+Kyrgyzstan,command and control,O,send data to c2 server,O
+Ministry,command and control,O,send data to c2 server,O
+of,command and control,O,send data to c2 server,O
+Foreign,command and control,O,send data to c2 server,O
+Affairs,command and control,O,send data to c2 server,O
+OCTOBER,command and control,O,send data to c2 server,O
+2014,command and control,O,send data to c2 server,O
+THROUGH,command and control,O,send data to c2 server,O
+SEPTEMBER,command and control,O,send data to c2 server,O
+2015,command and control,O,send data to c2 server,O
+FireEye,command and control,O,send data to c2 server,O
+iSight,command and control,O,send data to c2 server,O
+Intelligence,command and control,O,send data to c2 server,O
+identified,command and control,O,send data to c2 server,O
+changes,command and control,O,send data to c2 server,O
+made,command and control,O,send data to c2 server,O
+to,command and control,O,send data to c2 server,O
+domain,command and control,O,send data to c2 server,O
+name,command and control,O,send data to c2 server,O
+server,command and control,O,send data to c2 server,O
+(,command and control,O,send data to c2 server,O
+DNS,command and control,O,send data to c2 server,O
+),command and control,O,send data to c2 server,O
+records,command and control,O,send data to c2 server,O
+that,command and control,O,send data to c2 server,O
+suggest,command and control,O,send data to c2 server,O
+that,command and control,O,send data to c2 server,O
+APT28,command and control,O,send data to c2 server,O
+intercepted,command and control,O,send data to c2 server,O
+email,command and control,O,send data to c2 server,O
+traf-,command and control,O,send data to c2 server,O
+fic,command and control,O,send data to c2 server,O
+from,command and control,O,send data to c2 server,O
+the,command and control,O,send data to c2 server,O
+Kyrgyzstan,command and control,O,send data to c2 server,O
+Ministry,command and control,O,send data to c2 server,O
+of,command and control,O,send data to c2 server,O
+Foreign,command and control,O,send data to c2 server,O
+Affairs,command and control,O,send data to c2 server,O
+after,command and control,O,send data to c2 server,O
+maliciously,command and control,O,send data to c2 server,O
+modifying,command and control,O,send data to c2 server,O
+DNS,command and control,O,send data to c2 server,O
+records,command and control,O,send data to c2 server,O
+of,command and control,O,send data to c2 server,O
+the,command and control,O,send data to c2 server,O
+ministry,command and control,O,send data to c2 server,O
+’,command and control,O,send data to c2 server,O
+s,command and control,O,send data to c2 server,O
+authoritative,command and control,O,send data to c2 server,O
+DNS,command and control,O,send data to c2 server,O
+servers,command and control,O,send data to c2 server,O
+
+Evade,anti-detection,O,security software evasion,O
+Detection.,anti-detection,O,security software evasion,O
+”,anti-detection,O,security software evasion,O
+Trend,anti-detection,O,security software evasion,O
+Micro,anti-detection,O,security software evasion,O
+
+accessed,data exfiltration,O,O,O
+athlete,data exfiltration,O,O,O
+medical,data exfiltration,O,O,O
+data.8,data exfiltration,O,O,O
+ASSOCIATE,data exfiltration,O,O,O
+D,data exfiltration,O,O,O
+IN,data exfiltration,O,O,O
+FOR,data exfiltration,O,O,O
+MATION,data exfiltration,O,O,O
+OPE,data exfiltration,O,O,O
+R,data exfiltration,O,O,O
+ATIONS,data exfiltration,O,O,O
+AC,data exfiltration,O,O,O
+TIVIT,data exfiltration,O,O,O
+Y,data exfiltration,O,O,O
+On,data exfiltration,O,O,O
+September,data exfiltration,O,O,O
+12,data exfiltration,O,O,O
+,,data exfiltration,O,O,O
+2016,data exfiltration,O,O,O
+,,data exfiltration,O,O,O
+the,data exfiltration,O,O,O
+“,data exfiltration,O,O,O
+Fancy,data exfiltration,O,O,O
+Bears,data exfiltration,O,O,O
+’,data exfiltration,O,O,O
+Hack,data exfiltration,O,O,O
+Team,data exfiltration,O,O,O
+”,data exfiltration,O,O,O
+persona,data exfiltration,O,O,O
+
+DCCC,O,O,O,O
+systems,O,O,O,O
+
+be,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+internal,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+DCCC,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+documents,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+on,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+“,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+his,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+”,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+WordPress,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+site.19,20,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+TV5Monde,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+FEBRUARY,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+2015,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+,,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+APRIL,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+2015,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+In,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+February,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+,,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+FireEye,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+identified,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+CORESHELL,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+traffic,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+beaconing,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+from,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+TV5Monde,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+’,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+s,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+network,anti-detection,O,hide malware artifacts,perform social-engineering based remote infection
+
+discredit,command and control,O,O,O
+anti-doping,command and control,O,O,O
+agencies,command and control,O,O,O
+and,command and control,O,O,O
+policies,command and control,O,O,O
+
+counteract,command and control,O,infect remote machine,O
+a,command and control,O,infect remote machine,O
+damaging,command and control,O,infect remote machine,O
+narrative,command and control,O,infect remote machine,O
+and,command and control,O,infect remote machine,O
+delegitimize,command and control,O,infect remote machine,O
+the,command and control,O,infect remote machine,O
+institutions,command and control,O,infect remote machine,O
+leveling,command and control,O,infect remote machine,O
+criticism,command and control,O,infect remote machine,O
+
+declares,O,O,infect remote machine,O
+the,O,O,infect remote machine,O
+Russian,O,O,infect remote machine,O
+Anti-Doping,O,O,infect remote machine,O
+Agency,O,O,infect remote machine,O
+(,O,O,infect remote machine,O
+RUSADA,O,O,infect remote machine,O
+),O,O,infect remote machine,O
+non-,O,O,infect remote machine,O
+compliant.24,O,O,infect remote machine,O
+
+received,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Therapeutic,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Use,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Exemptions,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+(,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+TUEs,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+),infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+for,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+medications,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+otherwise,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+banned,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+from,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+competition.36,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Claiming,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+to,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+support,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+“,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+fair,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+play,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+and,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+clean,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+sport,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+,,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+”,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Fancy,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Bears,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+’,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Hack,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+team,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+calls,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+TUEs,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+“,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+licenses,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+involved,data theft,O,infect remote machine,steal network address
+the,data theft,O,infect remote machine,steal network address
+theft,data theft,O,infect remote machine,steal network address
+of,data theft,O,infect remote machine,steal network address
+internal,data theft,O,infect remote machine,steal network address
+data,data theft,O,infect remote machine,steal network address
+
+advance,command and control,O,O,O
+particular,command and control,O,O,O
+Russian,command and control,O,O,O
+Government,command and control,O,O,O
+aims,command and control,O,O,O
+
+deploy,secondary operation,O,install backdoor,O
+custom,secondary operation,O,install backdoor,O
+modules,secondary operation,O,install backdoor,O
+within,secondary operation,O,install backdoor,O
+its,secondary operation,O,install backdoor,O
+backdoors,secondary operation,O,install backdoor,O
+
+gain,data theft,O,O,O
+access,data theft,O,O,O
+to,data theft,O,O,O
+the,data theft,O,O,O
+group,data theft,O,O,O
+’,data theft,O,O,O
+s,data theft,O,O,O
+tools,data theft,O,O,O
+
+sending,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+spear-phishing,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+emails,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+that,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+either,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+deliver,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+exploit,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+documents,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+that,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+deploy,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+malware,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+onto,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+a,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+user,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+’,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+s,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+systems,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+provide,machine access/control,O,control local machine,control machine via remote command
+access,machine access/control,O,control local machine,control machine via remote command
+to,machine access/control,O,control local machine,control machine via remote command
+the,machine access/control,O,control local machine,control machine via remote command
+their,machine access/control,O,control local machine,control machine via remote command
+accounts,machine access/control,O,control local machine,control machine via remote command
+
+infect,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+site,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+visitors,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+compromising,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+their,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+web-facing,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+servers,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+TACTIC,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+TACTIC,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+INFECTION,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+WITH,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+MALWARE,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+VIA,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+SPEAR,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+PHISH,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+WEBMAIL,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+ACCESS,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+VIA,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+SPEAR-PHISH,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+Craft,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+exploit,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+document,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+with,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+enticing,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+lure,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+content,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+is,O,create service,O,O
+installed,O,create service,O,O
+Victim,O,create service,O,O
+opens,O,create service,O,O
+document,O,create service,O,O
+,,O,create service,O,O
+and,O,create service,O,O
+malware,O,create service,O,O
+
+instructing,data exfiltration,O,control local machine,O
+them,data exfiltration,O,control local machine,O
+
+view,data exfiltration,O,infect remote machine,perform social-engineering based remote infection
+mail,data exfiltration,O,infect remote machine,perform social-engineering based remote infection
+
+move,O,O,control local machine,O
+deeper,O,O,control local machine,O
+

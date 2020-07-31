@@ -1,0 +1,186 @@
+Tokens: delivering this document shall be liable for any consequence , loss , or damage 
+Action: O
+Capability: anti-detection
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: helping it evade traditional security mechanisms compared to directly sending the link to the malicious document 
+Action: send network packet
+Capability: anti-detection
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: download a fake Adobe Flash player update 
+Action: download file
+Capability: secondary operation
+Strategic Objective: control local machine
+Tactical Objective: control machine via remote command
+
+Tokens: uses sociopolitical themes 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: download an .HTA file 
+Action: download file
+Capability: secondary operation
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: executes the NDiskMonitor backdoor and a decoy document 
+Action: O
+Capability: O
+Strategic Objective: install backdoor
+Tactical Objective: O
+
+Tokens: urges the victim to click on a fake PDF icon to open the malicious document 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: download a Windows Script Component ( SCT ) file from a Patchwork-owned server 
+Action: download file
+Capability: secondary operation
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: contained malicious macros that deliver the xRAT remote access tool 
+Action: O
+Capability: infection/propagation
+Strategic Objective: install backdoor
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: deliver the Badnews backdoor 
+Action: O
+Capability: command and control
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: acquire a few samples abusing a technique called self-compiled .NET hybrids 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: is evaluated the first comparison ( @ X ) == ( @ Y ) 
+Action: O
+Capability: infection/propagation
+Strategic Objective: O
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: committing the repaired files back to the Github repository 
+Action: O
+Capability: command and control
+Strategic Objective: perform data exfiltration
+Tactical Objective: O
+
+Tokens: is a custom backdoor written in .NET 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: are done Backdoor queries 
+Action: O
+Capability: machine access/control
+Strategic Objective: send data to c2 server
+Tactical Objective: O
+
+Tokens: check = encrypted result return list of all logical drives , separated by “ & ” list all the files and directories in given directory download and execute file from given URL The third thread regularly downloads 
+Action: download file
+Capability: secondary operation
+Strategic Objective: probe host configuration
+Tactical Objective: install secondary malware
+
+Tokens: uses the Socksbot backdoor 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: execute an EXE file o Write and execute a PowerShell script o Write and execute a PowerShell script and exit 
+Action: write to file
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: send the stolen files back to C & C server 
+Action: O
+Capability: command and control
+Strategic Objective: send data to c2 server
+Tactical Objective: exfiltrate via network
+
+Tokens: overcome air-gapped environments 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: perform autonomous remote infection
+
+Tokens: makes a POST request on C & C 
+Action: send http post request
+Capability: command and control
+Strategic Objective: hide malware artifacts
+Tactical Objective: O
+
+Tokens: is carried out Persistence 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: identify target machine(s)
+
+Tokens: be C & C servers that collect data sent by the file stealers , and no domain name points to those IP addresses 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: deterring researchers 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: yahoomail [ . ] support 
+Action: O
+Capability: O
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: send targeted emails 
+Action: O
+Capability: infection/propagation
+Strategic Objective: infect remote machine
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: facilitate server installation when using a Windows environment 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: Keep the operating system and its applications updated—or employ virtual patching for legacy systems—to prevent security gaps and deter attackers 
+Action: O
+Capability: anti-detection
+Strategic Objective: hide malware artifacts
+Tactical Objective: hide network traffic
+
+Tokens: secure the use of tools usually reserved for system administrators , such as PowerShell 
+Action: O
+Capability: command and control
+Strategic Objective: hide malware artifacts
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: protect information on mobile devices , endpoints , gateways , servers and the cloud 
+Action: O
+Capability: command and control
+Strategic Objective: capture system state data
+Tactical Objective: capture system memory
+
+Tokens: are powered All of our solutions 
+Action: O
+Capability: command and control
+Strategic Objective: perform data exfiltration
+Tactical Objective: O
+

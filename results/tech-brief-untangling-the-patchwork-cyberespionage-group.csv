@@ -1,0 +1,353 @@
+token,capability,action,strategicObj,tacticalObj
+
+delivering,anti-detection,O,O,perform social-engineering based remote infection
+this,anti-detection,O,O,perform social-engineering based remote infection
+document,anti-detection,O,O,perform social-engineering based remote infection
+shall,anti-detection,O,O,perform social-engineering based remote infection
+be,anti-detection,O,O,perform social-engineering based remote infection
+liable,anti-detection,O,O,perform social-engineering based remote infection
+for,anti-detection,O,O,perform social-engineering based remote infection
+any,anti-detection,O,O,perform social-engineering based remote infection
+consequence,anti-detection,O,O,perform social-engineering based remote infection
+,,anti-detection,O,O,perform social-engineering based remote infection
+loss,anti-detection,O,O,perform social-engineering based remote infection
+,,anti-detection,O,O,perform social-engineering based remote infection
+or,anti-detection,O,O,perform social-engineering based remote infection
+damage,anti-detection,O,O,perform social-engineering based remote infection
+
+helping,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+it,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+evade,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+traditional,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+security,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+mechanisms,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+compared,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+to,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+directly,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+sending,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+the,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+link,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+to,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+the,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+malicious,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+document,anti-detection,send network packet,infect remote machine,perform social-engineering based remote infection
+
+download,secondary operation,download file,control local machine,control machine via remote command
+a,secondary operation,download file,control local machine,control machine via remote command
+fake,secondary operation,download file,control local machine,control machine via remote command
+Adobe,secondary operation,download file,control local machine,control machine via remote command
+Flash,secondary operation,download file,control local machine,control machine via remote command
+player,secondary operation,download file,control local machine,control machine via remote command
+update,secondary operation,download file,control local machine,control machine via remote command
+
+uses,command and control,O,O,O
+sociopolitical,command and control,O,O,O
+themes,command and control,O,O,O
+
+download,secondary operation,download file,O,O
+an,secondary operation,download file,O,O
+.HTA,secondary operation,download file,O,O
+file,secondary operation,download file,O,O
+
+executes,O,O,install backdoor,O
+the,O,O,install backdoor,O
+NDiskMonitor,O,O,install backdoor,O
+backdoor,O,O,install backdoor,O
+and,O,O,install backdoor,O
+a,O,O,install backdoor,O
+decoy,O,O,install backdoor,O
+document,O,O,install backdoor,O
+
+urges,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+the,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+victim,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+to,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+click,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+on,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+a,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+fake,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+PDF,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+icon,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+to,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+open,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+the,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+malicious,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+document,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+download,secondary operation,download file,O,O
+a,secondary operation,download file,O,O
+Windows,secondary operation,download file,O,O
+Script,secondary operation,download file,O,O
+Component,secondary operation,download file,O,O
+(,secondary operation,download file,O,O
+SCT,secondary operation,download file,O,O
+),secondary operation,download file,O,O
+file,secondary operation,download file,O,O
+from,secondary operation,download file,O,O
+a,secondary operation,download file,O,O
+Patchwork-owned,secondary operation,download file,O,O
+server,secondary operation,download file,O,O
+
+contained,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+malicious,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+macros,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+that,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+deliver,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+the,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+xRAT,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+remote,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+access,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+tool,infection/propagation,O,install backdoor,perform social-engineering based remote infection
+
+deliver,command and control,O,infect remote machine,O
+the,command and control,O,infect remote machine,O
+Badnews,command and control,O,infect remote machine,O
+backdoor,command and control,O,infect remote machine,O
+
+acquire,command and control,O,O,O
+a,command and control,O,O,O
+few,command and control,O,O,O
+samples,command and control,O,O,O
+abusing,command and control,O,O,O
+a,command and control,O,O,O
+technique,command and control,O,O,O
+called,command and control,O,O,O
+self-compiled,command and control,O,O,O
+.NET,command and control,O,O,O
+hybrids,command and control,O,O,O
+
+is,infection/propagation,O,O,perform social-engineering based remote infection
+evaluated,infection/propagation,O,O,perform social-engineering based remote infection
+the,infection/propagation,O,O,perform social-engineering based remote infection
+first,infection/propagation,O,O,perform social-engineering based remote infection
+comparison,infection/propagation,O,O,perform social-engineering based remote infection
+(,infection/propagation,O,O,perform social-engineering based remote infection
+@,infection/propagation,O,O,perform social-engineering based remote infection
+X,infection/propagation,O,O,perform social-engineering based remote infection
+),infection/propagation,O,O,perform social-engineering based remote infection
+==,infection/propagation,O,O,perform social-engineering based remote infection
+(,infection/propagation,O,O,perform social-engineering based remote infection
+@,infection/propagation,O,O,perform social-engineering based remote infection
+Y,infection/propagation,O,O,perform social-engineering based remote infection
+),infection/propagation,O,O,perform social-engineering based remote infection
+
+committing,command and control,O,perform data exfiltration,O
+the,command and control,O,perform data exfiltration,O
+repaired,command and control,O,perform data exfiltration,O
+files,command and control,O,perform data exfiltration,O
+back,command and control,O,perform data exfiltration,O
+to,command and control,O,perform data exfiltration,O
+the,command and control,O,perform data exfiltration,O
+Github,command and control,O,perform data exfiltration,O
+repository,command and control,O,perform data exfiltration,O
+
+is,O,O,O,O
+a,O,O,O,O
+custom,O,O,O,O
+backdoor,O,O,O,O
+written,O,O,O,O
+in,O,O,O,O
+.NET,O,O,O,O
+
+are,machine access/control,O,send data to c2 server,O
+done,machine access/control,O,send data to c2 server,O
+Backdoor,machine access/control,O,send data to c2 server,O
+queries,machine access/control,O,send data to c2 server,O
+
+check,secondary operation,download file,probe host configuration,install secondary malware
+=,secondary operation,download file,probe host configuration,install secondary malware
+encrypted,secondary operation,download file,probe host configuration,install secondary malware
+result,secondary operation,download file,probe host configuration,install secondary malware
+return,secondary operation,download file,probe host configuration,install secondary malware
+list,secondary operation,download file,probe host configuration,install secondary malware
+of,secondary operation,download file,probe host configuration,install secondary malware
+all,secondary operation,download file,probe host configuration,install secondary malware
+logical,secondary operation,download file,probe host configuration,install secondary malware
+drives,secondary operation,download file,probe host configuration,install secondary malware
+,,secondary operation,download file,probe host configuration,install secondary malware
+separated,secondary operation,download file,probe host configuration,install secondary malware
+by,secondary operation,download file,probe host configuration,install secondary malware
+“,secondary operation,download file,probe host configuration,install secondary malware
+&,secondary operation,download file,probe host configuration,install secondary malware
+”,secondary operation,download file,probe host configuration,install secondary malware
+list,secondary operation,download file,probe host configuration,install secondary malware
+all,secondary operation,download file,probe host configuration,install secondary malware
+the,secondary operation,download file,probe host configuration,install secondary malware
+files,secondary operation,download file,probe host configuration,install secondary malware
+and,secondary operation,download file,probe host configuration,install secondary malware
+directories,secondary operation,download file,probe host configuration,install secondary malware
+in,secondary operation,download file,probe host configuration,install secondary malware
+given,secondary operation,download file,probe host configuration,install secondary malware
+directory,secondary operation,download file,probe host configuration,install secondary malware
+download,secondary operation,download file,probe host configuration,install secondary malware
+and,secondary operation,download file,probe host configuration,install secondary malware
+execute,secondary operation,download file,probe host configuration,install secondary malware
+file,secondary operation,download file,probe host configuration,install secondary malware
+from,secondary operation,download file,probe host configuration,install secondary malware
+given,secondary operation,download file,probe host configuration,install secondary malware
+URL,secondary operation,download file,probe host configuration,install secondary malware
+The,secondary operation,download file,probe host configuration,install secondary malware
+third,secondary operation,download file,probe host configuration,install secondary malware
+thread,secondary operation,download file,probe host configuration,install secondary malware
+regularly,secondary operation,download file,probe host configuration,install secondary malware
+downloads,secondary operation,download file,probe host configuration,install secondary malware
+
+uses,command and control,O,O,O
+the,command and control,O,O,O
+Socksbot,command and control,O,O,O
+backdoor,command and control,O,O,O
+
+execute,O,write to file,O,O
+an,O,write to file,O,O
+EXE,O,write to file,O,O
+file,O,write to file,O,O
+o,O,write to file,O,O
+Write,O,write to file,O,O
+and,O,write to file,O,O
+execute,O,write to file,O,O
+a,O,write to file,O,O
+PowerShell,O,write to file,O,O
+script,O,write to file,O,O
+o,O,write to file,O,O
+Write,O,write to file,O,O
+and,O,write to file,O,O
+execute,O,write to file,O,O
+a,O,write to file,O,O
+PowerShell,O,write to file,O,O
+script,O,write to file,O,O
+and,O,write to file,O,O
+exit,O,write to file,O,O
+
+send,command and control,O,send data to c2 server,exfiltrate via network
+the,command and control,O,send data to c2 server,exfiltrate via network
+stolen,command and control,O,send data to c2 server,exfiltrate via network
+files,command and control,O,send data to c2 server,exfiltrate via network
+back,command and control,O,send data to c2 server,exfiltrate via network
+to,command and control,O,send data to c2 server,exfiltrate via network
+C,command and control,O,send data to c2 server,exfiltrate via network
+&,command and control,O,send data to c2 server,exfiltrate via network
+C,command and control,O,send data to c2 server,exfiltrate via network
+server,command and control,O,send data to c2 server,exfiltrate via network
+
+overcome,O,O,O,perform autonomous remote infection
+air-gapped,O,O,O,perform autonomous remote infection
+environments,O,O,O,perform autonomous remote infection
+
+makes,command and control,send http post request,hide malware artifacts,O
+a,command and control,send http post request,hide malware artifacts,O
+POST,command and control,send http post request,hide malware artifacts,O
+request,command and control,send http post request,hide malware artifacts,O
+on,command and control,send http post request,hide malware artifacts,O
+C,command and control,send http post request,hide malware artifacts,O
+&,command and control,send http post request,hide malware artifacts,O
+C,command and control,send http post request,hide malware artifacts,O
+
+is,command and control,O,O,identify target machine(s)
+carried,command and control,O,O,identify target machine(s)
+out,command and control,O,O,identify target machine(s)
+Persistence,command and control,O,O,identify target machine(s)
+
+be,command and control,O,O,O
+C,command and control,O,O,O
+&,command and control,O,O,O
+C,command and control,O,O,O
+servers,command and control,O,O,O
+that,command and control,O,O,O
+collect,command and control,O,O,O
+data,command and control,O,O,O
+sent,command and control,O,O,O
+by,command and control,O,O,O
+the,command and control,O,O,O
+file,command and control,O,O,O
+stealers,command and control,O,O,O
+,,command and control,O,O,O
+and,command and control,O,O,O
+no,command and control,O,O,O
+domain,command and control,O,O,O
+name,command and control,O,O,O
+points,command and control,O,O,O
+to,command and control,O,O,O
+those,command and control,O,O,O
+IP,command and control,O,O,O
+addresses,command and control,O,O,O
+
+deterring,O,O,O,O
+researchers,O,O,O,O
+
+yahoomail,O,O,O,O
+[,O,O,O,O
+.,O,O,O,O
+],O,O,O,O
+support,O,O,O,O
+
+send,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+targeted,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+emails,infection/propagation,O,infect remote machine,perform social-engineering based remote infection
+
+facilitate,command and control,O,O,O
+server,command and control,O,O,O
+installation,command and control,O,O,O
+when,command and control,O,O,O
+using,command and control,O,O,O
+a,command and control,O,O,O
+Windows,command and control,O,O,O
+environment,command and control,O,O,O
+
+Keep,anti-detection,O,hide malware artifacts,hide network traffic
+the,anti-detection,O,hide malware artifacts,hide network traffic
+operating,anti-detection,O,hide malware artifacts,hide network traffic
+system,anti-detection,O,hide malware artifacts,hide network traffic
+and,anti-detection,O,hide malware artifacts,hide network traffic
+its,anti-detection,O,hide malware artifacts,hide network traffic
+applications,anti-detection,O,hide malware artifacts,hide network traffic
+updated—or,anti-detection,O,hide malware artifacts,hide network traffic
+employ,anti-detection,O,hide malware artifacts,hide network traffic
+virtual,anti-detection,O,hide malware artifacts,hide network traffic
+patching,anti-detection,O,hide malware artifacts,hide network traffic
+for,anti-detection,O,hide malware artifacts,hide network traffic
+legacy,anti-detection,O,hide malware artifacts,hide network traffic
+systems—to,anti-detection,O,hide malware artifacts,hide network traffic
+prevent,anti-detection,O,hide malware artifacts,hide network traffic
+security,anti-detection,O,hide malware artifacts,hide network traffic
+gaps,anti-detection,O,hide malware artifacts,hide network traffic
+and,anti-detection,O,hide malware artifacts,hide network traffic
+deter,anti-detection,O,hide malware artifacts,hide network traffic
+attackers,anti-detection,O,hide malware artifacts,hide network traffic
+
+secure,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+the,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+use,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+of,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+tools,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+usually,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+reserved,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+for,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+system,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+administrators,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+,,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+such,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+as,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+PowerShell,command and control,O,hide malware artifacts,perform social-engineering based remote infection
+
+protect,command and control,O,capture system state data,capture system memory
+information,command and control,O,capture system state data,capture system memory
+on,command and control,O,capture system state data,capture system memory
+mobile,command and control,O,capture system state data,capture system memory
+devices,command and control,O,capture system state data,capture system memory
+,,command and control,O,capture system state data,capture system memory
+endpoints,command and control,O,capture system state data,capture system memory
+,,command and control,O,capture system state data,capture system memory
+gateways,command and control,O,capture system state data,capture system memory
+,,command and control,O,capture system state data,capture system memory
+servers,command and control,O,capture system state data,capture system memory
+and,command and control,O,capture system state data,capture system memory
+the,command and control,O,capture system state data,capture system memory
+cloud,command and control,O,capture system state data,capture system memory
+
+are,command and control,O,perform data exfiltration,O
+powered,command and control,O,perform data exfiltration,O
+All,command and control,O,perform data exfiltration,O
+of,command and control,O,perform data exfiltration,O
+our,command and control,O,perform data exfiltration,O
+solutions,command and control,O,perform data exfiltration,O
+

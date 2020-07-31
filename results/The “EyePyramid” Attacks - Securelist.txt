@@ -1,0 +1,30 @@
+Tokens: leveraged a malware named “ EyePyramid ” to target a dozen politicians , bankers , prominent freemasons and law enforcement personalities in Italy 
+Action: O
+Capability: anti-detection
+Strategic Objective: infect remote machine
+Tactical Objective: O
+
+Tokens: identified a number of C & C servers 
+Action: O
+Capability: command and control
+Strategic Objective: receive data from c2 server
+Tactical Objective: perform social-engineering based remote infection
+
+Tokens: write a more specific and more effective YARA rule 
+Action: O
+Capability: O
+Strategic Objective: control local machine
+Tactical Objective: O
+
+Tokens: get the victim to open and execute the attachment 
+Action: O
+Capability: command and control
+Strategic Objective: O
+Tactical Objective: O
+
+Tokens: write YARA rules like a GReAT Ninja , consider taking a master class at Security Analyst Summit 
+Action: O
+Capability: O
+Strategic Objective: destroy virtual entity
+Tactical Objective: control machine via remote command
+

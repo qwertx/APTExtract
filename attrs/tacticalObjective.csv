@@ -1,0 +1,148 @@
+000,detect sandbox environment
+001,detect vm environment
+002,overload sandbox
+003,prevent execution in sandbox
+004,prevent execution in vm
+005,defeat call graph generation
+006,defeat flow-oriented (recursive traversal) disassemblers
+007,defeat linear disassemblers
+008,detect debugging
+009,obfuscate imports
+010,obfuscate instructions
+011,obfuscate runtime code
+012,prevent debugging
+013,restructure arrays
+014,transform control flow
+015,change/add content
+016,encrypt self
+017,execute before/external to kernel/ hypervisor
+018,execute non-main cpu code
+019,execute stealthy code
+020,feed misinformation during physical memory acquisition
+021,hide arbitrary virtual memory
+022,hide code in file
+023,hide file system artifacts
+024,hide kernel modules
+025,hide network traffic
+026,hide open network ports
+027,hide processes
+028,hide registry artifacts
+029,hide services
+030,hide threads
+031,hide userspace libraries
+032,obfuscate artifact properties
+033,prevent native api hooking
+034,prevent physical memory acquisition
+035,prevent api unhooking
+036,prevent file access
+037,prevent file deletion
+038,prevent memory access
+039,prevent registry access
+040,prevent registry deletion
+041,compromise access to information assets
+042,compromise local system availability
+043,crack passwords
+044,denial of service
+045,mine for cryptocurrency
+046,check for payload
+047,control malware via remote command
+048,generate c2 domain name(s)
+049,send heartbeat data
+050,send system information
+051,update configuration
+052,validate data
+053,encrypt data
+054,exfiltrate via covert channel
+055,exfiltrate via dumpster dive
+056,exfiltrate via fax
+057,exfiltrate via network
+058,exfiltrate via physical media
+059,exfiltrate via voip/phone
+060,hide data
+061,move data to staging server
+062,package data
+063,steal browser cache
+064,steal browser history
+065,steal contact list data
+066,steal cookie
+067,steal cryptocurrency data
+068,steal database content
+069,steal dialed phone numbers
+070,steal documents
+071,steal email data
+072,steal images
+073,steal make/model
+074,steal network address
+075,steal open port
+076,steal password hash
+077,steal pki key
+078,steal pki software certificate
+079,steal referrer urls
+080,steal serial numbers
+081,steal sms database
+082,steal web/network credential
+083,destroy firmware
+084,destroy hardware
+085,erase data
+086,access premium service
+087,identify file
+088,identify target machine(s)
+089,inventory victims
+090,modify file
+091,perform autonomous remote infection
+092,perform social-engineering based remote infection
+093,write code into file
+094,annoy local system user
+095,annoy remote user
+096,corrupt system data
+097,corrupt user data
+098,intercept/manipulate network traffic
+099,subvert system
+100,control machine via remote command
+101,drop/retrieve debug log file
+102,limit application type/version
+103,persist after os install/reinstall
+104,persist after system reboot
+105,persist independent of hard disk/os changes
+106,reinstantiate self after initial detection
+107,elevate cpu mode
+108,check for firewall
+109,check for internet connectivity
+110,check for network drives
+111,check for proxy
+112,check language
+113,identify os
+114,inventory system applications
+115,map local network
+116,compromise remote machine
+117,install legitimate software
+118,install secondary malware
+119,install secondary module
+120,remove self
+121,remove system artifacts
+122,disable access right checking
+123,disable firewall
+124,disable kernel patching protection
+125,disable os security alerts
+126,disable privilege limiting
+127,disable system file overwrite protection
+128,disable system service pack/patch installation
+129,disable system update services/ daemons
+130,disable user account control
+131,gather security product info
+132,modify security program configuration
+133,prevent access to security websites
+134,prevent security program from running
+135,remove sms warning messages
+136,stop execution of security program
+137,capture camera input
+138,capture file system
+139,capture gps data
+140,capture keyboard input
+141,capture microphone input
+142,capture mouse input
+143,capture printer output
+144,capture system memory
+145,capture system network traffic
+146,capture system screenshot
+147,capture touchscreen input
